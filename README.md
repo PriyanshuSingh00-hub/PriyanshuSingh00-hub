@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/kautukkundan/Awesome-Profile-README-templates/master/assets/banner.gif"
      width="100%" />
 
-<h1 align="center">Namaste 🙏, I'm Priyanshu Singh</h1>
+<h1 align="center">Hey! 🙏, I'm Priyanshu Singh</h1>
 
 <h4 align="center">
 I'm a Computer Science enthusiast passionate about Full Stack Development,
