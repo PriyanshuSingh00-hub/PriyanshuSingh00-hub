@@ -30,8 +30,8 @@ and scalable web systems.
 <br />
 <p>🌱 Continuously improving my programming and software engineering skills.</p>
 <p>🔭 Hands-on experience with Full Stack Development.</p>
-<p>💬 Comfortable with JavaScript, TypeScript, C++, SQL.</p>
-<p>⚡ Interested in AI/ML, Cloud Computing, Data Science & Blockchain.</p>
+<p>💬 Comfortable with JavaScript, TypeScript, SQL.</p>
+<p>⚡ Interested in DevOps, Cloud Computing, Data Science & Blockchain.</p>
 <p>👥 Open to collaboration and learning opportunities.</p>
 
 <br /><br />
