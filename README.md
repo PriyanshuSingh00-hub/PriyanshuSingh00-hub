@@ -5,7 +5,7 @@
 
 <h4 align="center">
 I'm a Computer Science enthusiast passionate about Full Stack Development,
-problem solving, and exploring modern technologies like Cloud, AI/ML,
+problem solving, and exploring modern technologies like Cloud
 and scalable web systems.
 </h4>
 
