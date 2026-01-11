@@ -1,24 +1,21 @@
 <img src="https://raw.githubusercontent.com/kautukkundan/Awesome-Profile-README-templates/master/assets/banner.gif"
      width="100%" />
 
-
 <h1 align="center">Namaste 🙏, I'm Priyanshu Singh</h1>
 
 <h4 align="center">
-I'm a Computer Science enthusiast passionate about building scalable web applications, 
-strengthening my problem-solving skills, and exploring modern technologies across 
-Full-Stack Development, Cloud, and emerging tech domains.
+I'm a Computer Science enthusiast passionate about Full Stack Development,
+problem solving, and exploring modern technologies like Cloud, AI/ML,
+and scalable web systems.
 </h4>
 
 <br />
 
 <div align="center">
-  <!-- Profile Views -->
   <a href="https://github.com/PriyanshuSingh00-hub" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=PriyanshuSingh00-hub&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <!-- Followers -->
   <a href="https://github.com/PriyanshuSingh00-hub?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/PriyanshuSingh00-hub?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
   </a>
@@ -32,22 +29,22 @@ Full-Stack Development, Cloud, and emerging tech domains.
 <h2 align="left">💫 About Me</h2>
 <br />
 <p>🌱 Continuously improving my programming and software engineering skills.</p>
-<p>🔭 Hands-on experience with Full-Stack Development using modern frameworks.</p>
-<p>💬 Comfortable with languages like JavaScript, TypeScript, C++, SQL.</p>
-<p>⚡ Interests include AI/ML, Cloud Computing, Data Science & Blockchain.</p>
-<p>👥 Open to collaboration on exciting and impactful projects.</p>
+<p>🔭 Hands-on experience with Full Stack Development.</p>
+<p>💬 Comfortable with JavaScript, TypeScript, C++, SQL.</p>
+<p>⚡ Interested in AI/ML, Cloud Computing, Data Science & Blockchain.</p>
+<p>👥 Open to collaboration and learning opportunities.</p>
 
-<br />
-<br />
+<br /><br />
 
 <h2 align="left">🧲 Connect with Me</h2>
 <br />
 <div align="left">
-  <a href="mailto:">
-    <img width="55px" src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:priyanshusingh00031@gmail.com">
+    <img width="55px" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img width="55px" src="https://skillicons.dev/icons?i=linkedin" />
+
+  <a href="https://www.linkedin.com/in/priyanshu-singh-aa19a13a4/" target="_blank">
+    <img width="55px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </div>
 
@@ -97,11 +94,8 @@ Full-Stack Development, Cloud, and emerging tech domains.
 
 <br />
 
-<a>
-  <img src="https://github.com/VedantBudhabaware/VedantBudhabaware/blob/main/gif/footer%20banner.gif" width="100%" />
-</a>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"
+     width="100%" height="1" />
 
 <p align="center">
   ⚠️ This README is uniquely designed by <strong>Priyanshu Singh</strong>.
