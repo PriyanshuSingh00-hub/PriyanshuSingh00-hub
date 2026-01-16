@@ -4,7 +4,7 @@
 <h1 align="center">Hey! 👋, I'm Priyanshu Singh</h1>
 
 <h4 align="center">
-I'm a Computer Science enthusiast passionate about Full Stack Development,
+I'm a Computer Science enthusiast, passionate about Full Stack Development,
 problem solving, and exploring modern technologies like Cloud
 and scalable web systems.
 </h4>
