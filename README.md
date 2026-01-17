@@ -6,7 +6,8 @@
 <h4 align="center">
 I'm a Computer Science enthusiast, passionate about Full Stack Development,
 problem solving, and exploring modern technologies like Cloud
-and scalable web systems.
+and scalable web systems.Contributing to open source organization and 
+     solving their problems.
 </h4>
 
 <br />
