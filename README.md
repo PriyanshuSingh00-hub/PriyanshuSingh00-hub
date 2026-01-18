@@ -51,7 +51,7 @@ and scalable web systems.Contributing to open source organization and
 
 <br />
 
-<h2 align="center">📚 Languages & Tools I Have Worked With.</h2>
+<h2 align="center">📚 Languages & Tools I Have Worked With</h2>
 <br />
 
 <div align="center">
