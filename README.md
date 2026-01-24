@@ -99,5 +99,5 @@ and scalable web systems.Contributing to open source organization and
      width="100%" height="1" />
 
 <p align="center">
-  ⚠️ This README is uniquely designed by <strong>Priyanshu Singh</strong>.
+  ⚠️ This README is uniquely designed by <strong>Priyanshu Singh</strong>
 </p>
