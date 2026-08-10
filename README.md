@@ -32,7 +32,7 @@ and scalable web systems.Contributing to open source organization and
 <p>🌱 Continuously improving my programming and software engineering skills.</p>
 <p>🔭 Hands-on experience with Full Stack Development.</p>
 <p>💬 Comfortable with JavaScript, TypeScript, SQL.</p>
-<p>⚡ Interested in DevOps, Cloud Computing, Data Science & Blockchain.</p>
+<p>⚡ Interested in DevOps, Cloud Computing, AIML.</p>
 <p>👥 Open to collaboration and learning opportunities.</p>
 
 <br /><br />
